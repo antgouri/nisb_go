@@ -1,0 +1,9 @@
+Enter the string / text data inside the txt file (preferable in lower case)
+
+then pass the text as input to the main
+
+command usage:
+
+cat text.txt | ./main
+
+Output - the text data will be in Upper case

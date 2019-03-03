@@ -1,0 +1,29 @@
+8g for amd64, 6g for i(386), 5g for arm
+
+tools like these 
+
+hello.go
+
+6g hello.go
+6l hello.6
+./6.out
+
+
+8g hello.go
+8l hello.8
+./8.out
+
+
+They were the fundamental compilers used earlier
+
+With Go 1.5, these were replaced with "go tool compile" 
+
+
+so...
+
+go tool compile hello.go
+
+go tool link hello.o
+
+./a.out
+

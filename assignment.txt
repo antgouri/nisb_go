@@ -1,0 +1,29 @@
+1. Print random numbers within a range
+
+2. Convert decimal to binary, hex, octal and vice-versa
+
+3. Convert ASCII to int, ASCII to Unicode and vice-versa
+
+4. Print invalid name if the number of characters are more than 25ch
+
+5. Merge anonymous functions with a channel.
+
+6. Web app without main()
+
+7. Print hello world without the main()
+
+8. Generate a unity matrix 
+
+9. Print the sum of all prime numbers within the range.
+
+10. Transpose of a matrix and other matrix operations
+
+11. Convert a ch to a long ch (concept of Internationalization)
+
+12. Sum of all even / odd numbers within the range
+
+13. Program to implement Goldbach’s Conjecture
+
+14. Program to generate the sum of a Pascal triangle
+
+15. Print all the alternate characters of an input.  
